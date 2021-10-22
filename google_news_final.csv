@@ -1,0 +1,202 @@
+,index,date,status_code,url,news_1_url,news_1_text,news_1_publish_date,news_2_url,news_2_text,news_2_publish_date,news_3_url,news_3_text,news_3_publish_date,news_4_url,news_4_text,news_4_publish_date,news_5_url,news_5_text,news_5_publish_date,news_6_url,news_6_text,news_6_publish_date,news_7_url,news_7_text,news_7_publish_date,news_8_url,news_8_text,news_8_publish_date,news_9_url,news_9_text,news_9_publish_date
+0,,02/01/2020,200,https://www.google.com/search?q=windows+11&source=lnms&tbm=nws&sa=X&ved=2ahUKEwjeqJ2I19XzAhU_xjgGHWfwD9AQ_AUoAXoECAEQAw&biw=1536&bih=754&dpr=1.25,https://www.theverge.com/2021/10/21/22732336/microsoft-windows-11-amd-cpu-performance-issues-fix-release,"Microsoft is releasing a new Windows 11 update today that fixes some of the AMD CPU performance issues. AMD and Microsoft found two issues with Windows 11 on Ryzen processors at launch, with one causing L3 cache latency to triple and slowing performance by up to 15 percent in certain games. Microsoft is now fixing this particular issue with Windows 11 Build 22000.282, available to all Windows 11 users today as an optional update in Windows Update.
+
+While the last Windows 11 update made these issues worse, today’s patch should fix them for good on the L3 cache latency side. The second outstanding issue affects AMD’s preferred core technology, which shifts threads over to the fastest core on a processor. AMD says this second bug could impact performance on CPU-reliant tasks, and AMD has already released a new chipset driver to address it, under version 3.10.08.506.
+
+This new Windows 11 update also includes a large amount of fixes, including one to solve an issue that prevents the Start menu from opening after your OS upgrade, and fixes to input delays for certain Bluetooth mice and keyboards. You can find the full list of fixes that are part of this patch over at Microsoft’s site.
+
+Update October 21st, 5:31PM ET: Added information about AMD updates.",2021-10-21,https://tech.hindustantimes.com/laptops-pc/news/windows-11-bug-on-amd-pcs-finally-fixed-71634897618782.html,"Earlier this month, Microsoft released the stable version of Windows 11 for the public and almost immediately, an issue crept up for AMD powered PCs. Several users on the new Windows 11 update complained of performance reduction on PC using AMD’s Ryzen chipsets. At the time, both AMD and Microsoft acknowledged that there was a bug and now they have come up with a fix.
+
+AMD has released a statement, clarifying the fixes that were made to Windows 11 for AMD powered PCs. The fixes are available as new Windows updates and will be available for eligible users with AMD processors. Users on AMD PCs can now expect the full performance available to them on Windows 11.
+
+Windows 11 update fixed AMD performance issue
+
+“Microsoft released a software update which addresses the L3 cache latency issue. The download can be obtained from Microsoft KB 5006476 beginning today, October 21,” said AMD in a latest statement.
+
+Windows 11 (Amritanshu Mukherjee / HT Tech)
+
+“AMD Chipset Driver version 3.10.08.506 addressing the UEFI CPPC2 issue is available beginning today, October 21,” added the blog. “AMD has verified that the performance and behaviour of compatible AMD processors are working as intended on Windows 11 subsequent to the installation of these updates. AMD and Microsoft recommend that users promptly install this update on affected systems.”
+
+Note that the Windows 11 update is only compatible those AMD PCs that have at least Zen 2, or Zen+ category of processors. The Zen 1 processors did not make the cut for Windows 11 support. On the Intel side, Windows PCs with at least 8th Gen Intel processors are eligible to get the Windows 11 update, although 7th Gen PCs are still under consideration.
+
+The Windows 11 update brings some substantial changes to the UI design of Windows. We reviewed a pre-release version of Windows 11 earlier this month and found the new design taking loads of inspiration from macOS Big Sur. There are notable performance improvements, especially with regards to gaming. Also, MS Teams is now a closely integrated part of the Windows 11’s chat experience.
+
+One of the biggest features yet to come on Windows 11 is its ability to run Android apps. Windows 11 PCs will be able to download and run Android apps via the Amazon App Store on the Microsoft Store.",2021-10-22 15:43:38+05:30,https://www.indiatvnews.com/technology/news-windows-11-finally-gets-fix-for-amd-cpu-performance-issue-with-new-update-741633,"Follow us on Image Source : MICROSOFT Windows 11 finally gets fix for AMD CPU performance issue with new update.
+
+Microsoft has rolled out a new Windows 11 update that brings a fix for some of the AMD CPU performance issues. AMD and Microsoft both acknowledged that some users were seeing performance degradation when running Windows 11 on PCs with certain AMD processors. The first bug affected the L3 cache and increased latency up to three times. The second bug is related to the ""preferred core"" feature that allows a system to use the fastest individual CPU cores in a processor.
+
+Now, AMD's latest chipset driver version 3.10.08.506 has been designed to ""fully"" restore the UEFI CPPC2 functionality in Windows 11 build 22000.189 or newer. The company published instructions on installing the new driver.
+
+""AMD has verified that the behavior of UEFI CPPC2 ('preferred core') is working as intended on compatible AMD processors,"" the company says.
+
+""AMD and Microsoft recommend that users promptly install this update on affected systems.""
+
+In addition to a dedicated fix aimed at Ryzen processors, Microsoft has patched other bugs affecting the overall experience of Windows 11.
+
+This new update also includes a large amount of fixes like issues that prevent the Start menu from opening after the OS upgrade, and fixes to input delays for certain Bluetooth mice and keyboards.
+
+Windows 11 is now available through a free upgrade on eligible Windows 10 PCs and on new PCs pre-installed with Windows 11 worldwide.
+
+According to the company, Windows 11 features powerful new experiences whether users are working on a school project, collaborating on a presentation for work, building a new app or creating your next big idea.
+
+Windows 11 comes with redesigns of the Taskbar icons and Start menu. It also adds rounded corners for all program windows and built-in Teams chat.
+
+(with IANS inputs)
+
+Latest Technology News",2021-10-22 11:21:06+05:30,https://gadgets.ndtv.com/apps/news/windows-11-android-apps-download-install-beta-testers-microsoft-store-amazon-appstore-2582850,"Windows 11 beta testers can now install Android apps on their systems directly through the Microsoft Store. The new experience comes months after Microsoft promised to bring Android apps support to Windows 11. Beta testers with Windows PCs based on AMD, Intel, and Qualcomm processors can test Android apps. Microsoft claims that there will be a familiar experience of running Android apps and games on Windows 11 as users will be able to run them side-by-side using the new Snap Layouts feature or pin any of them to the Start menu. Android apps are also integrated into the Alt + Tab function and Task view to let users move back-and-forth between the apps — just like how they can move between their regular Windows apps.
+
+Initially, Microsoft has curated 50 Android apps for Windows 11 beta testers who are a part of the Windows Insider programme. These include mobile games such as Lords Mobile, June's Journey, and Coin Master, as well as apps such as Kindle, Khan Academy Kids, and Lego Duplo World.
+
+The count of 50 Android apps on Windows 11 for beta testing is indeed quite insignificant when comparing with Google Play that has nearly 3.5 million apps. The Amazon Appstore, which essentially serves as the bridge for enabling Android apps support on Windows 11, also has over 460,000 Android apps.
+
+Microsoft has integrated the Amazon Appstore within the Microsoft Store to let users download and install Android apps on Windows 11 computers. The company also claims that the experience of running Android apps and games on the latest Windows operating system will be as fluent as running a native app. This means that users will be able to interact with Android apps via mouse, touch, or pen input and run them side-by-side using the Snap Layouts feature, pin them to the Start menu or Taskbar.
+
+Notifications from Android apps installed on a Windows 11 PC will also appear in the Action Centre — just like how you get notifications from a native Windows app. Similarly, the clipboard data can be shared between a Windows app and an Android app.
+
+“We have built the experience with accessibility in mind; many Windows accessibility settings apply to Android apps and we are working with Amazon to deliver more improvements,” the Windows team said in a blog post.
+
+Microsoft has added a new component called Windows Subsystem for Android in Windows 11 that runs in a Hyper-V Virtual Machine, similar to the Windows Subsystem for Linux. It includes the Linux kernel and the Android OS based on the Android Open Source Project (AOSP) version 11 to enable Android apps support. The subsystem is also distributed through the Microsoft Store as part of the Amazon Appstore install.
+
+Over time, Microsoft is aiming to bolster the Windows Subsystem for Android by adding support for “more APIs, capabilities, and scenarios” to make it capable of running additional Android apps.
+
+The new Windows Subsystem is available across all Windows processor types, including AMD, Intel, and Qualcomm. Microsoft is also working closely with Intel to use the Intel Bridge Technology for enabling Arm-only apps to run on AMD and Intel devices. Further, the Redmond company does have plans to directly connect with app developers to publish their Android apps to the Amazon Appstore for their access on Windows 11 PCs in the future.
+
+At this moment, limited Android apps support is only accessible through the Beta Channel of Windows 11 in the US. This means that you need to make sure that your Windows 11 PC is set to the US region. The Amazon account you are using should also be US-based to download Android apps via the Amazon Appstore.
+
+Microsoft first showcased Android apps support on Windows 11 at the time of showcasing the new platform in June. It, however, confirmed in September that Android apps won't be a part of the first Windows 11 release that debuted earlier this month.",,https://www.theverge.com/2021/10/20/22736528/microsoft-android-apps-windows-11-test,"Microsoft is now allowing Windows 11 testers to try out Android apps. A preview version of the Windows Subsystem for Android will be available to beta testers of Windows 11 today, providing access to apps from the Amazon Appstore. Testers with Intel, AMD, and Qualcomm processors will all be able to try out Android apps on Windows 11.
+
+Apps can be loaded through the Microsoft Store, which will list a variety of apps that then point toward the Amazon Appstore to load and install. Android apps can run side by side with other Windows apps, and they’re also integrated into Alt + Tab and Task view, and you can pin them to the Start menu or the taskbar.
+
+“You can see notifications from Android apps notifications in the Action Center or share your clipboard between a Windows app and an Android app,” explains Android on Windows 11 team. “We have built the experience with accessibility in mind; many Windows accessibility settings apply to Android apps and we are working with Amazon to deliver more improvements.”
+
+Microsoft has partnered with Amazon to curate 50 apps for Windows Insiders to test on Windows 11. These include mobile games like Lords Mobile, June’s Journey, and Coin Master. There are also reading apps like Kindle, and kids apps like Lego Duplo World or Khan Academy Kids.
+
+Fifty apps is a tiny selection of the more than 3 million apps available on the Google Play Store, and even the more than 600,000 on Amazon’s Appstore. It’s not clear how many Android apps will be available once this feature is broadly launched for Windows 11.
+
+Microsoft has built a subsystem in Windows 11 to enable Android app support. It includes the Linux kernel and an Android OS based on Android Open Source Project (AOSP) version 11. “The Subsystem runs in a Hyper-V Virtual Machine, like the Windows Subsystem for Linux,” says Microsoft’s Android apps on Windows 11 team. “It understands how to map the runtime and APIs of apps in the AOSP environment to the Windows graphic layer, the memory buffers, the input modes, the physical and virtual devices, and the sensors.”
+
+This subsystem supports AMD, Intel, and Qualcomm chips, and Microsoft has partnered with Intel to enable Arm-only apps to run on AMD and Intel devices.
+
+Microsoft is only enabling Android apps in the Beta Channel of Windows 11 today, and the company says it plans to bring the preview to Dev Channel users “down the road.” Your Windows 11 PC will need to be set to the US region, in the Beta Channel, and it also requires a US-based Amazon account to access the Amazon Appstore.",2021-10-20,https://www.xda-developers.com/how-to-run-android-apps-on-any-windows-11-pc/,"You don’t need to be a Windows Insider to get Android apps on Windows 11
+
+It’s been just a day since Microsoft unveiled the long-anticipated Windows Subsystem for Android for Windows 11. The company has also published a plethora of documentation related to the integration with Amazon Appstore and Android app development on Windows using the native Android subsystem. However, unlike typical bleeding edge features, the Dev channel of Windows 11 isn’t officially permitted to access the initial preview for Android apps. For now, not only you’ll need to be enrolled in the Beta channel, but also your PC’s region should be set to the United States. Apart from these “soft” restrictions, you can only run a small set of Android apps published to the Amazon Appstore that are approved by Microsoft and Amazon at this moment.
+
+If you’re on the Stable or Dev channel of Windows 11 and you don’t want to change the update channel just for the sake of running Android apps, then you would be glad to know that the current release of the Windows Subsystem for Android can be easily installed and run on the unsupported builds as well as on legacy platforms without any kind of modifications. It is also possible to sideload Android apps using ADB, which means you can enjoy all the bells and whistles without limiting yourself to the Amazon Appstore offerings.
+
+Note: Before we get into the manual installation process of the Windows Subsystem for Android, keep in mind that the current release is nowhere near a stable milestone. Microsoft has put the restrictions by keeping the performance parameters in mind, which is why you may face occasional glitches (or even crashes) on the unsupported platforms. It is always a good idea to create a full disk image of your current Windows 11 installation before tinkering with it so that you can quickly revert back to a working state.
+
+How to run Android apps on any Windows 11 PC
+
+Step 1 – Grab the installer package of the Windows Subsystem for Android
+
+Just like the Windows Subsystem for Linux (WSL), the Windows Subsystem for Android is also distributed through the Microsoft Store for devices running Windows 11. Since Microsoft doesn’t offer an official way to fetch the direct download link of an app package from its Store, we will opt for a third-party site to pass the hurdle.
+
+Click here to open the website of Online link generator for Microsoft Store by @rgadguard. The product ID of the Windows Subsystem for Android app is 9P3395VX91NR, so you have to put the same in the search box after selecting “ProductId” from the first drop-down menu. Alternatively, you can directly put https://www.microsoft.com/en-us/p/windows-subsystem-for-android/9p3395vx91nr as the “URL (link).” Next, select the channel as “Slow” from the second drop-down menu.
+
+Locate the largest file from the list. It should be a MSIX Bundle (with the extension .msixbundle) sized a little over 1 GB. This is the main installer package for the Windows Subsystem for Android. Click on the filename to download the file. At the time of writing this article, the version number of the Windows Subsystem for Android package is 1.7.32815.0. We’ve also mirrored this particular build for easy-downloading. The SHA-1 hash of the MSIX Bundle for this version is 0c4b3430bcd37be562f54322c79fb14f11ce1348 .
+
+Step 2 – Install the Windows Subsystem for Android package
+
+A MSIX Bundle is a packaging format that comprises multiple MSIX packages – each of which can support a specific system architecture. This is why you can install the package on both traditional x64 PCs, as well as on compatible ARM64 devices.
+
+Open Windows Terminal as administrator and start a PowerShell instance. To do so, right click on the Start button and select Windows Terminal (Admin). By default it should open with PowerShell, but if it doesn’t, then invoke a new tab with PowerShell. Execute the following command to install the MSIX Bundle you downloaded: Add-AppxPackage -Path <path_to_msixbundle_file> If everything goes right, then the package will be deployed and you’ll see a new icon in your Start Menu.
+
+
+
+Step 3 – Sideloading apps on the Windows Subsystem for Android
+
+Now that we’ve installed the Windows Subsystem for Android, it’s time to configure it for app sideloading. To make things easier, we have a separate comprehensive tutorial for sideloading Android apps on Windows 11. Take a look at the guide below:
+
+How to sideload Android apps on Windows 11
+
+The end result should be something like this:
+
+As you can see, the screenshots have been taken on a Windows 11 instance that is running build 22000.258, i.e. the first post-General Availability update. Matter of fact, the model of the CPU is the Intel Core i5-6500T, which is neither officially supported by the Windows Subsystem for Android, nor Windows 11. We haven’t encountered any groundbreaking glitches so far, but your mileage may vary.
+
+Stay tuned to XDA as we cover all the updates and new features related to the Windows Subsystem for Android as they come out!",2021-10-21 14:41:10+00:00,https://timesofindia.indiatimes.com/gadgets-news/this-update-can-fix-performance-issues-in-windows-11-pcs/articleshow/87206851.cms,"This month Microsoft officially rolled out the Windows 11 operating system for the public. Soon after the release, users started to report performance issues in their PCs. The issue was acknowledged by the computer processor maker AMD. The company revealed that after installing Windows 11, measured and functional L3 cache latency on a few of its processors increased as much as three times. Apart from this, due to the issue the preferred cores did not preferentially schedule threads on a processor’s fastest core. This issue hampered applications sensitive to the performance of one or a few CPU threads.
+
+The L3 cache issue was resolved in the last Windows 11 update that was available to Windows Insider users in Beta and Preview channels and you now it is available for the public as well. To fix the issue with the processor’s core, AMD has also rolled out Ryzen chipset driver update version 3.10.08.506. To check if the latest update is installed on your PC, go to Settings > Apps and Features. On that page you can check the version of your AMD chipset software. If you want to download and install the update manually, you can get it from the company’s website. It is available for Windows 10 as well.
+
+Apart from the above mentioned issue, Windows 11 users have reported several other bugs in the operating system. The company will likely address those issues in the upcoming patches. Usually the company releases updates for all its products on the second Tuesday every month. Recently, Windows 11 users who are part of the Windows Insider’s Beta channel also got access to test Android apps on the platform. The company has partnered with Amazon and popular app developers to curate 50 apps for Windows Insiders to test and validate across a broad set of hardware.
+
+",,https://www.pcmag.com/how-to/how-to-upgrade-to-windows-11-for-free,"Windows 11 will come preinstalled on any new PC you purchase, but why shell out the money if your current Windows 10 PC is eligible for a free upgrade? Microsoft offers several ways to get the new OS, so you can pick the method that works best for you.
+
+Check for Compatibility
+
+The conversation around Windows 11 requirements has been a confusing one. Before you can get the free update, you should first make sure your current Windows 10 PC is compatible. The best way to do this is to run Microsoft’s PC Health Check Tool.
+
+Go to the Windows 11 Specifications page and scroll to the bottom until you see the Check for compatibility section. Click the Download PC Health Check App link and install the program. Click the Check now button inside the app. If your computer is compatible, a message tells you that your PC meets Windows 11 requirements.
+
+Microsoft is slowly rolling out Windows 11 to compatible Windows 10 systems, so your next step should be to check if the update is available for your PC. On your Windows 10 machine, go to Settings > Update & Security > Windows Update and click the Check for updates button. If Windows 11 is waiting for you, it can then be installed.
+
+Download With the Installation Assistant
+
+Instead of waiting for the upgrade to reach your machine, you can go through Microsoft’s Windows 11 Installation Assistant. Open the Download Windows 11 page and click the Download now button under the Windows 11 Installation Assistant section.
+
+Run the downloaded Windows11InstallationAssistant.exe file. Click the Accept and install button and your Windows 11 installation will upgrade to Windows 11. You should be able to use your PC during the download and installation.
+
+After the installation completes, you will be prompted to restart your PC. You are given the option to restart the machine immediately or wait for the 30-minute timer to end if you need time to save any open work. After your PC reboots, you can sign into Windows again. Once the final setup is complete, you are deposited at your new Windows 11 desktop.
+
+Microsoft's Media Creation Tool
+
+Another option is to use Microsoft’s Media Creation Tool, which is a program that lets you create installation media for the new OS. At the Download Windows 11 page, click the Download now button under the Create Windows 11 Installation Media section.
+
+Run the MediaCreationToolW11.exe file, then accept the license terms and confirm the language and edition of Windows that you want. You can then choose to copy the installation files to a USB drive or generate an ISO file and burn it to a disk.
+
+If you went the USB drive route, the tool then downloads the necessary Windows 11 installation files and copies them to the USB drive. Then open the drive and double-click the setup.exe file to kick off the upgrade.
+
+If you wish to upgrade from an ISO file, choose a location for the file and change the name to something more specific. The installation files are then saved to your PC as an ISO file. Open File Explorer, then double-click the ISO file to open it and double-click the setup.exe file.
+
+Click Next to have Windows 11 check for any updates, then accept the license terms. The Ready to install screen shows that Windows 11 will be installed and that your personal files and apps will be kept. To modify those choices, click Change. You can then elect to keep personal files and apps, personal files only, or nothing. Click Next, then Install to run the upgrade.
+
+After your PC reboots, sign in to finish the setup. Depending on what you chose to keep, Windows may prompt you to customize your privacy settings. You’re then taken to the desktop.
+
+Download Disk Image
+
+You can also choose a direct download of the Windows 11 ISO file. At the Download Windows 11 page, go to the Download Windows 11 Disk Image (ISO) section and select Windows 11 from the drop-down menu. Select the product language, click Confirm, and then click the Download button to get the ISO file.
+
+After the download, double-click the ISO file and then double-click the setup.exe file. Click Next at the initial install screen to check for and download any updates to Windows 11. At the Ready to Install screen, you will see that Windows 11 will be installed and personal files and apps will be kept by default.
+
+If you wish to change this, click Change and switch to Personal files only or Nothing. Click Next, then Install to run the upgrade. After your PC restarts, sign into Windows 11 to view your new operating system.",,https://www.windowslatest.com/2021/10/22/windows-11-kb5006746-fixes-these-critical-performance-issues/,"Windows 11 KB5006746 has been released with several critical bug fixes, including a proper fix for performance issues on AMD hardware. Additionally, Windows 11’s first optional update also addresses Blue Screen of Death errors, File Explorer bugs, and improves visual design and animations of Microsoft Chat on the taskbar.
+
+Windows 11 KB5006746 is officially being termed as an optional update and it is not part of the company’s Patch Tuesday cycle. The optional update, which is not downloaded automatically, contains bug fixes and improvements that will be released to everyone with November 2021 Patch Tuesday.
+
+As you’re probably aware, Windows 11 has been suffering from an annoying bug affecting the performance of games and apps, and after a week of testing in Insider channels, Microsoft has finally rolled out what will be a definitive solution for the performance issues in the operating system.
+
+With KB5006746, Microsoft has finally fixed an L3 caching issue that could have affected the performance of apps and games on devices with Ryzen processors. In addition to a dedicated fix aimed at Ryzen processors, Microsoft has patched other bugs affecting the overall experience of Windows 11.
+
+On your devices, when you check for updates today, the following update will appear on your screen:
+
+2021-10 Cumulative Update for Windows 11 for x64-based Systems (KB5006746)
+
+To download and install Windows 11 Build 22000.282, you can check if it’s available in Windows Update. To do this, follow these steps:
+
+Open Windows Settings > Windows Update.
+
+Check for updates.
+
+Click on the “Download now” button to install the optional patch.
+
+Reboot when required.
+
+Remember that patch is still rolling out and it may or may not show up when you check for updates right now. If you don’t see it listed on the Windows Update page, you can check back later or simply download the offline installer from Microsoft Update Catalog, and deploy it manually as you do on Windows 10.
+
+Download Links for Windows 11 KB5006746
+
+Windows 11 KB5006746 Direct Download Links: 64-bit and 32-bit (x86).
+
+The above link will open Microsoft Update Catalog in your browser and from there you can access the direct download link to the offline installers. Simply select the “Download” button for x64 if you have a device with a 64-bit processor. If you download the incorrect version (ARM64), the installation will end abruptly.
+
+A new window will open when you tap on the “Download” button. Right-click and copy the .msu link and paste it into another tab to start the download.
+
+Windows 11 KB5006746 (Build 22000.282) Full Changelog
+
+Microsoft has fixed AMD-specific performance issues. Design and animation improvements for Teams chat on the taskbar. A bug has been fixed that prevented the new taskbar and Start menu from appearing on devices upgraded from Windows 10. A bug has been fixed that causes apps to run slower than usual. Microsoft is improving Windows Update’s ability to predict the installation time.
+
+Windows 11 Build 22000.282 has fixed a race condition where the startup screen might fail with a Blue Screen of Death error. Another bug has been fixed where the Start menu might stop working and launching apps that use non-ASCII text to crash the operating system with Blue Screen of Death error.
+
+Microsoft has also patched an issue that might crash devices when handling certain processes on Windows 11.
+
+For File Explorer, Microsoft has addressed a design bug with renaming files using folder view in File Explorer. The Explorer fails to handle inline composition when you’ve Japanese IME installed.
+
+Likewise, File Explorer performance has been fixed and moving the Explorer window is no longer slow.",2021-10-22
